@@ -192,7 +192,14 @@ int main()
 			break;
 		default:
 			std::cout << "Invalid choice. Please try again.\n";
+
+
+
+
 		}
+
+		int main (
+				}
 	} while (choice != 5);
 
 	return 0;
